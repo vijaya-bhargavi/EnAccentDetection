@@ -1,0 +1,9 @@
+streamlit
+librosa
+whisper
+yt-dlp
+matplotlib
+psutil
+tensorflow
+scikit-learn
+numpy
