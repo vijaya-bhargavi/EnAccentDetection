@@ -4,10 +4,9 @@ A **Streamlit-based web application** that detects the **accent** of spoken audi
 
 ## 📽️ Demo
 
-[![Watch the demo](https://img.shields.io/badge/Watch-Demo-blue)](https://github.com/vijaya-bhargavi/EnAccentDetection/blob/main/Demo.mp4)
-
-<!-- 🔁 Replace the above link with your actual demo video URL -->
-
+<a href="https://drive.google.com/file/d/1d2kHO33Zeb98NYsdVlgAbJoE8CKCFvND/view?usp=sharing">
+  <img src="https://github.com/vijaya-bhargavi/EnAccentDetection/blob/main/ss.jpeg" alt="Watch the demo" width="600"/>
+</a>
 ---
 
 ## 🧠 About the Project
