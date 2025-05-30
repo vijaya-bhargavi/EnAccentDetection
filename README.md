@@ -101,6 +101,7 @@ FFMPEG_PATH = r"C:/ffmpeg/ffmpeg/bin"
 * ✅ Trained model: `best_accent_model.h5`
 * ✅ Label encoder: `model_checkpoint/label_encoder.pkl`
 
+
 These files must be placed in the root/project directory as shown below.
 
 ### 5. Run the Application
@@ -108,7 +109,6 @@ These files must be placed in the root/project directory as shown below.
 ```bash
 streamlit run app.py
 ```
-
 ---
 
 ## 📁 Project Structure
@@ -122,6 +122,9 @@ accent-detection/
 │   └── label_encoder.pkl          # Pickled LabelEncoder for class decoding
 ├── requirements.txt               # Python dependencies
 └── README.md                      # Project description (this file)
+
+* Currently the model achieves accuracy of 83%
+* Sample ouputs are also attached
 ```
 
 ---
